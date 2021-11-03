@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+- My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
+- Interests: Distributed Systems & OS & Game Development
+- Intern at Tencent, ByteDance
+
+
 ![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Mellorsssss/Mellorsssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
