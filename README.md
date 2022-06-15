@@ -25,4 +25,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+C++          10 hrs 8 mins   ██████████████████▓░░░░░░   75.29 %
+CMake        1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Python       58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Go           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Makefile     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+```
+
 <!--END_SECTION:waka-->
