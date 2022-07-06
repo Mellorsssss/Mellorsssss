@@ -28,9 +28,8 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-Go                7 hrs 24 mins   █████████████████████████   99.65 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go         4 hrs 20 mins   █████████████████████████   99.40 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
