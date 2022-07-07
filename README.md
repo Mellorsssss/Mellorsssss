@@ -28,8 +28,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-Go         4 hrs 20 mins   █████████████████████████   99.40 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
