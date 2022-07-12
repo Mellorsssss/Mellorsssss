@@ -28,7 +28,10 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++        2 hrs 2 mins    █████████████████████▒░░░   85.65 %
+C          16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
