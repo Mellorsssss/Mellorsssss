@@ -28,8 +28,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-C++    16 mins         █████████████████████████   99.55 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
