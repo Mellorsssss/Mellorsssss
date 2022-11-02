@@ -28,8 +28,8 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-C++           34 hrs 39 mins  ███████████████████▓░░░░░   78.46 %
-Other         7 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+C++           39 hrs 2 mins   ███████████████████▒░░░░░   77.97 %
+Other         9 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
 ```
 
 <!--END_SECTION:waka-->
