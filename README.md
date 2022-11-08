@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
-- 😄Interests: Distributed Systems & OS & Game Development
+- 😄Interests: Distributed Systems & OS & Datebases & Game Development
 - 🤔Intern at Tencent, ByteDance
 
 
