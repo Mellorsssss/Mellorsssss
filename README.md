@@ -28,7 +28,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-Other   6 hrs 49 mins   █████████████████████░░░░   83.56 %
+Go   1 hr 20 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
