@@ -28,8 +28,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       1 hr 20 mins    ████████████████████████▓   98.79 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
