@@ -28,8 +28,8 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```text
-Go                14 hrs 52 mins  ███████████████████▓░░░░░   78.52 %
-Other             4 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+Go                14 hrs 52 mins  ███████████████████▒░░░░░   77.17 %
+Other             4 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
 ```
 
 <!--END_SECTION:waka-->
