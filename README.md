@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+- A database newbie, a lifelong learner
 - My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
 - 😄Interests: Distributed Systems & OS & Datebases & Game Development
 - 🤔Intern at Tencent, ByteDance
 
 
-![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical)
+![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical&count_private=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl) -->
 
