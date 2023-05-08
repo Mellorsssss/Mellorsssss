@@ -3,7 +3,7 @@
 - A database newbie, a lifelong learner
 - My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
 - 😄Interests: Distributed Systems & OS & Datebases & Game Development
-- 🤔Intern at Tencent, ByteDance
+- 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP)
 
 
 ![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical&count_private=true)
