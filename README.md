@@ -6,7 +6,7 @@
 - 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP)
 
 
-![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical&count_private=true)
+![Mellorsssss's github stats](https://github-readme-stats.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical&count_private=false)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl) -->
 
