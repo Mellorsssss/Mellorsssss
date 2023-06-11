@@ -2,7 +2,7 @@
 
 - A database newbie, a lifelong learner
 - My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
-- 😄Interests: Distributed Systems & OS & Datebases & Game Development
+- 😄Interests: Distributed Systems & Datebases & Game Development
 - 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP)
 
 
