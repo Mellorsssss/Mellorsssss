@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/cd44d41f-b4b1-4dda-8c5f-910966f6c9d4.svg)](https://wakatime.com/@cd44d41f-b4b1-4dda-8c5f-910966f6c9d4)
+[![github](https://img.shields.io/github/followers/Mellorsssss?logo=github&style=plastic)](https://github.com/Mellorsssss?tab=followers)
 - A database newbie, a lifelong learner
 - My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
 - 😄Interests: Distributed Systems & Datebases & Game Development
