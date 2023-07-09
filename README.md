@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Melos 👋
 
 [![wakatime](https://wakatime.com/badge/user/cd44d41f-b4b1-4dda-8c5f-910966f6c9d4.svg)](https://wakatime.com/@cd44d41f-b4b1-4dda-8c5f-910966f6c9d4)
 [![github](https://img.shields.io/github/followers/Mellorsssss?logo=github&style=plastic)](https://github.com/Mellorsssss?tab=followers)
-- A database newbie, a lifelong learner
-- My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
-- 😄Interests: Distributed Systems & Datebases & Game Development
+- 😁A database newbie, a lifelong learner
+- 🥺My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
+- 🥰I am currently studying OLAP systems, and if you are also interested, I would be delighted to engage in discussions with you!
+- 😄Interests: Distributed Systems & Databases & Game Development
 - 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP)
 
+(Refresh if you can't see the following status!😊)
 
 ![Mellorsssss's github stats](https://github-readme-stats-mellorsssss.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical)
 
