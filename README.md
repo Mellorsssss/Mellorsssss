@@ -33,11 +33,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java           4 hrs 52 mins   █████████████████████████   99.77 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
