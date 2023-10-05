@@ -10,8 +10,7 @@
 
 <!-- (Refresh if you can't see the following status!😊) -->
 
-<!-- ![Mellorsssss's github stats](https://github-readme-stats-mellorsssss.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical)-->
-
+![Mellorsssss's github stats](https://github-readme-stats-mellorsssss.vercel.app/api?username=Mellorsssss&show_icons=true&theme=radical)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,typescript,css,glsl) -->
 
 <!--
