@@ -32,11 +32,7 @@ Last Week:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 42 mins    ███████████████░░░░░░░░░░   60.46 %
-Text       38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Ezhil      22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-TSQL       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
