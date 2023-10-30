@@ -28,15 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last Week:
-<!--START_SECTION:waka-->
-
-```txt
-Java         2 hrs 9 mins    ████████████████████▓░░░░   83.06 %
-Text         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Ezhil        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
