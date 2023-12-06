@@ -5,7 +5,7 @@
 - 😁A database newbie, a lifelong learner
 - 🥺My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
 - 🥰I am currently studying OLAP systems, and if you are also interested, I would be delighted to engage in discussions with you!
-- 😄Interests: Distributed Systems & Databases & Game Development
+- 😄Interests: Distributed Systems & Databases & Game Development & Compiler
 - 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest)
 
 <!-- (Refresh if you can't see the following status!😊) -->
