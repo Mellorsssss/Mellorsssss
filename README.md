@@ -6,7 +6,7 @@
 - 🥺Check My Blog: [Mellorsssss's blog](https://mellorsssss.com/)
 - 🥰I am currently studying OLAP systems, and if you are also interested, I would be delighted to engage in discussions with you!
 - 😄Interests: Distributed Systems & Databases & Game Development & Compiler
-- 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP)
+- 🤔Intern at Tencent(UE4 Dev), ByteDance(ABTest), ApeCloud(OLAP), Oceanbase
 
 <!-- (Refresh if you can't see the following status!😊) -->
 
